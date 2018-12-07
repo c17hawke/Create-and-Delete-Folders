@@ -1,4 +1,5 @@
 import sys
+
 def main():
 	yourChoice = input("enter\n 'm' to make folders\n 'r' to remove folders\n")
 	if yourChoice == 'm':
@@ -10,5 +11,6 @@ def main():
 	else:
 		print('exiting !!')
 		sys.exit()
+		
 if __name__ == '__main__':
 	main()
