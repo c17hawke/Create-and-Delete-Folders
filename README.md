@@ -5,4 +5,4 @@
 	<li>run <b>makeFolders.py</b> to make a squence of folders.</li>
 	<li>run <b>removeFolders.py</b> to remove any sequence of folders.</li>
 	<li>simply run <b>folder.py</b> and follow the instruction.</li>
-</ol>>
+</ol>
