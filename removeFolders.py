@@ -31,7 +31,7 @@ def validate(start_folder,num_of_folder):
 		print("relaunch again")
 		sys.exit()
 
-def main():
+def delete():
 	start_folder = input('starting folder seq \n')
 
 	if len(start_folder) > 0:
@@ -56,4 +56,4 @@ def main():
 		print("DONE !!")	
 
 if __name__ == '__main__':
-	main()
+	delete()
