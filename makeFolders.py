@@ -27,7 +27,7 @@ def validate(start_folder,end_folder):
 		print("relaunch again!!")
 		sys.exit()
 
-def main():
+def make():
 	start_folder = start()
 
 	end_folder = int(input('how many folders you need \n'))
@@ -50,4 +50,4 @@ def main():
 
 
 if __name__ == '__main__':
-	main()
+	make()
