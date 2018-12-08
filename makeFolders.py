@@ -44,7 +44,7 @@ def make():
 			common_name = 'folder'
 
 
-			creating(start_folder, end_folder, common_name)
+		creating(start_folder, end_folder, common_name)
 	finally:
 		print("DONE !!")
 
