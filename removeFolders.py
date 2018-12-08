@@ -50,7 +50,7 @@ def delete():
 		else:
 			print("No input given.\n Initiating default case!!\n")
 			common_name = 'folder'
-			removing(start_folder,num_of_folder,common_name)
+		removing(start_folder,num_of_folder,common_name)
 
 	finally:
 		print("DONE !!")	
